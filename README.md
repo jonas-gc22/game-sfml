@@ -38,7 +38,7 @@ Salir del juego ESC
     •	Librería:
     •	SFML 2.x
 
-#### Instalación de SFML en macOS:
+### Instalación de SFML en macOS:
 
 brew install sfml@2
 
@@ -99,22 +99,22 @@ PressStart2P-Regular.ttf Fuente retro
 
 ### 📦 Estructura del Proyecto
 
-game-sfml/
-├── sfml_demo.cpp
-├── player.png
-├── enemy.png
-├── bg.png
-├── beep.wav
-├── PressStart2P-Regular.ttf
-└── README.md
+- game-sfml/
+- ├── sfml_demo.cpp
+- ├── player.png
+- ├── enemy.png
+- ├── bg.png
+- ├── beep.wav
+- ├── PressStart2P-Regular.ttf
+- └── README.md
 
 ⸻
 
 ### 📌 Autor
 
-Jonás García Corniel
-Desarrollador Full Stack
-Email: gcjonas22@gmail.com
+- Jonás García Corniel
+- Desarrollador Full Stack
+- Email: gcjonas22@gmail.com
 
 ⸻
 
